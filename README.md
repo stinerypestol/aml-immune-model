@@ -7,7 +7,9 @@ The aim of this thesis is to investigate the combined effects of the immune syst
 ## Repository Contents
 
 ### `aml-immune-model.ipynb`
-A Jupyter Notebook containing the full implementation of the model, simulation results, and visualisations.
+A Jupyter Notebook containing the full implementation of the model, simulation results, and visualisations. 
+
+The notebook is structured to closely follow the progression of the master's thesis. Each simulation is accompanied by a heading that reference the corresponding figures in the thesis, allowing for easy cross-referencing and reproducibility.
 
 ### `Dockerfile`
 Used to reproduce the environment for running the simulations.
